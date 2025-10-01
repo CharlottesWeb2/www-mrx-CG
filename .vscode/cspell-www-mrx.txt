@@ -57,6 +57,7 @@ dopts
 dpkg
 Driesnack
 eidr
+Ekaterina
 Eluvio
 embeded
 environemnt
@@ -150,6 +151,7 @@ openapi
 Oplayer
 optimise
 optimised
+opto
 Organisation
 Organisations
 originhash
@@ -159,6 +161,7 @@ Ouistreham
 overriden
 packetizing
 pdate
+Petoukhova
 piersdeseilligny
 plantuml
 Playout
@@ -255,6 +258,7 @@ wtfismyip
 Xrundown
 xtra
 xtract
+yellowbasket
 Zek
 zerve
 zerver
