@@ -52,7 +52,7 @@ The solution works like this:
 Of the 8 steps, only steps #1 & #8 are custom software for your app. The remaining
 steps are handled by {{<metarex>}}. This means you concentrate on the value-add
 of your metadata, {{<metarex>}} handles the plumbing and waste disposal.
-{{</hw>}}
+{{< /hw>}}
 
 ## The processing in more detail
 

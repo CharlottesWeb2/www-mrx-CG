@@ -33,7 +33,7 @@ CES features every aspect of the tech sector.
  challenging for us to stay focused and not to be distracted by all the toys on
  show.
 
-{{< /hw>}}
+{{< /hw >}}
 <!-- ####################################################################### -->
 {{< hw t = "block"
   id    = "block2"
@@ -74,7 +74,7 @@ NBCUniversal, Netflix, The Nielsen Company, Omnicom Media Group, Pandora, Roku,
 Samsung Ads, SiriusXM, Snap, T-Mobile, TikTok, Warner Bros. and more.
 
 You can find Katya's report of the CES 2023 [here.]
-{{< /hw>}}
+{{< /hw >}}
 <!-- ####################################################################### -->
 
 [here]:   /blog/2023-01-10-ces-report/index.md                  

@@ -27,7 +27,7 @@ description: Learn about metarex?
     class      = "ui green message"
     src        = "/meeja/mrx2-fire.mp4"
     srcClass   = "ui fluid image"
-    link       = "/rexy-area/_index.md"
+    link       = "/about.md"
     alt        = "rexy fire clip"
   />}}
 <!-- ---------------------------------------------------------------------- -->
@@ -52,8 +52,9 @@ description: Learn about metarex?
 
   <i class = "book icon"></i> Read the docs.
   <!-- ---------------------------------------------------------------------- -->
-{{< /hw>}}
-{{< /hw>}}
+{{< /hw >}}
+{{< /hw >}}
+
 
 ### MetaRex Documentation
 

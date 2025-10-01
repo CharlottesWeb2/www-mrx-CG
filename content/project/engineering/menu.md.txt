@@ -3,7 +3,7 @@ title: engineering
 date:  2025-03-31
 ---
 
-{{< fo
+{{< hw
     t = "mnu-page"
     header = "MetaRex Menu"
     text = " A la carte "
@@ -17,16 +17,16 @@ date:  2025-03-31
 
 {{< hw t = "mnu-item" header = "Appetiser" src = "some-image" >}}
 The item text
-{{/* close the mnu-item*/}}{{< /hw>}}
+{{/* close the mnu-item*/}}{{< /hw >}}
 
 {{< hw t = "mnu-description" header = "Appetiser" src = "some-image" >}}
 The description text
-{{/* close the mnu-description*/}}{{< /hw>}}
+{{/* close the mnu-description*/}}{{< /hw >}}
 
 {{< hw t = "mnu-price" header = "Appetiser" src = "some-image" >}}
 The price text
 <div class = "ui pink label">£1200</div>
-{{/* close the mnu-price*/}}{{< /hw>}}
+{{/* close the mnu-price*/}}{{< /hw >}}
 
 
 
@@ -41,8 +41,8 @@ The price text
 
 
 
-{{/* close the mnu-block*/}}{{< /hw>}}
-{{/* close the row */}}{{< /hw>}}
+{{/* close the mnu-block*/}}{{< /hw >}}
+{{/* close the row */}}{{< /hw >}}
 {{/* --------------------------------------------------------------------- */}}
 {{/* ------------
 
@@ -52,4 +52,4 @@ BRUCE READ THIS ... some words
 
 
 
-{{/* close the page block*/}}{{< /hw>}}
+{{/* close the page block*/}}{{< /hw >}}

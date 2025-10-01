@@ -19,7 +19,7 @@ oldtags:     ["project",  "CES", "yellowbasket"]
 
 The CES 2023 theme was a little unusual for consumer tech show, but it was up to date, relevant and contemporary: **“Tech Solving the World’s Biggest Challenges”**. 
 Tech development is often associated with poor environment credentials or not in the long term interest of humanity, but perhaps only now we are entering an age where technology could help save the world in many ways broken by human interaction.
-{{< /hw>}}
+{{< /hw >}}
 <!-- ####################################################################### -->
 {{< hw t = "block"
   id    = "summary"
@@ -35,7 +35,7 @@ One of the six most important tech trends nominated by Steve Koenig, VP Research
 
 both of which enhance the audio-video experience we have bee used to have until
 now.
-{{< /hw>}}
+{{< /hw >}}
 <!-- ####################################################################### -->
 {{< hw t = "block"
   id     = "vimverse"
@@ -47,7 +47,7 @@ now.
 The show floor saw VR/AR offering – filming, delivering, reproducing
 all sorts of content – for business purposes and entertainment. There were many 3D metadata tools including one we liked from [Vimmerse].
 
-{{< /hw>}}
+{{< /hw >}}
 <!-- ####################################################################### -->
 {{< hw t = "block"
   id     = "block3"
@@ -69,7 +69,7 @@ where we met a plethora of like minded colleagues, including Leslie Shannon -
 Head of Ecosystem and Trend Scouting for Nokia based in Silicon Valley and the
 author of [Interconnected Realities:]_How the Metaverse Will Transform Our Relationship to Technology Forever_
 
-{{< /hw>}}
+{{< /hw >}}
 <!-- ####################################################################### -->
 {{< hw t = "block"
   id     = "block4"
@@ -78,7 +78,7 @@ Needless to say that engineering part of Metaverse today in term of
 standartization is much weaker than the futurist dreams about it, so here we are: Closing the gap.
 
 {{< metarex >}} roar!
-{{< /hw>}}
+{{< /hw >}}
 <!-- ####################################################################### -->
 
 [Interconnected Realities]: https://www.amazon.com/Interconnected-Realities-Metaverse-Relationship-Technology/dp/1394160844

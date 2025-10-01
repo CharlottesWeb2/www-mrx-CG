@@ -67,6 +67,7 @@ ezdrm
 Fleurier
 fohuw
 fomantic
+Foolcat
 FOSS
 fullscreen
 Gantt

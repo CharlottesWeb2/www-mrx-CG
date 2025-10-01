@@ -24,7 +24,7 @@ streamlining operations and setup.
 [Fifa]: https://www.fifa.com/
 [HBS]:  https://www.hbs.tv/about-us/
 
-{{< /hw>}}
+{{< /hw >}}
 
 <!-- ####################################################################### -->
 
@@ -74,7 +74,7 @@ The lineup of feeds:
 * Action clips
 * Emotion clips
 * Permanent highlights
-{{< /hw>}}
+{{< /fo >}}
 
 <!-- ####################################################################### -->
 
@@ -95,7 +95,7 @@ time based metadata associated with the media found its way to the cloud based
 storage.  A {{< metarex >}} fire-hose of metadata might have enriched the quality,
 quantity and **searchability** of assets.
 
-{{< /hw>}}
+{{< /hw >}}
 
 <!-- ####################################################################### -->
 
@@ -111,7 +111,7 @@ basic-stereo mix, 5.1 surround-sound mix **_and also_** a **5.1.4** immersive
 mix produced in two immersive-sound galleries at the IBC. At the center of those
 efforts, an eight-capsule microphone array at each stadium is supported by
 additional three-dimensional microphone arrays located closer to the spectators.
-{{< /hw>}}
+{{< /hw >}}
 
 {{< hw t = "image"
     src = "mobile-viewer.jpg"

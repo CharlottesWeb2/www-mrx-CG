@@ -33,7 +33,7 @@ Guided by our champions, the [BBC] and [theIET], we sought to deliver a hyper-pe
 With the help of [Cuvo], [EZDRM], [JPBMedia] and the **IBC Accelerator Team** the [online demo] sparked joy with hundreds of visitors to the booth at the show.
 
 {{% sitelinks %}}
-{{< /hw>}}
+{{< /hw >}}
 
 {{< hw t = "block"
    id    = "bruce"
@@ -56,7 +56,7 @@ We would like to thank the whole team that made this possible:
 Also a warm thanks to [Mark  Smith] and [Muki Kulhan] at the [IBC] (International Broadcasting Convention) for their support, encouragment and enthusiasm for this project!
 
 {{< sitelinks >}}
-{{< /hw>}}
+{{< /hw >}}
 
 [Tristan Larke]: https://www.linkedin.com/in/tristanlarke/
 [Ian Wagdin]:    https://www.linkedin.com/in/ian-wagdin-b2581411/

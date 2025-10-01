@@ -26,4 +26,4 @@ asked at [NAB](content/blog/NAB2022-Las-Vegas/index.md) and [IBC](content/blog/I
 
 Looks like December and January are going to be busy...
 
-{{< /hw>}}
+{{< /hw >}}
