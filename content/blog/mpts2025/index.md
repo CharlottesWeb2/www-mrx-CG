@@ -8,7 +8,7 @@ author:       MetaRex [@in](https://www.linkedin.com/company/metarex-media)
 tags:         ["event"]
 ---
 
-{{< fo t = "image"
+{{< hw t = "image"
   id    = "Rexy at MPTS"
   src   = "/mpts2025/rexy-mpts.png"
   srcClass = "ui fluid image"
@@ -22,14 +22,14 @@ The main event of the day was Bruce hosting the session ['Have I Got Standards F
 Many thanks to our panelists, [Dagmar Driesnack][DD], [Dee Davison][Dee], [Rich Welsh][RW], [David Thompson][DT] and [James Uren][JU] for being involved in the session and for being such great speakers! 
 
 
-{{< fo t = "image"
+{{< hw t = "image"
   id    = "Rexy at MPTS"
   src   = "/mpts2025/mpts-2025-session.png"
   srcOn = "left"
   alt = "list of panelist" 
 />}}
 
-{{< fo t = "image"
+{{< hw t = "image"
   id    = "Rexy at MPTS"
   src   = "/mpts2025/mpts-panelist.png"
   srcOn = "right"

@@ -11,7 +11,7 @@ params:
 
 noIndex:   true
 ---
-{{< fo t = "block" 
+{{< hw t = "block" 
     id   = "summary" 
 >}}
 <!-- markdownlint-disable MD025 -->
@@ -35,4 +35,4 @@ Here are some of the key objectives for the {{%  metarex %}} Project.
 [3]: https://metarex.media/ui/reg/
 
 {{% sitelinks %}}
-{{< /fo >}}
+{{< /hw >}}

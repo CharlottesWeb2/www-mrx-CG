@@ -14,7 +14,7 @@ tags:     ["collaborations"]
 oldtags:  ["backers"]
 ---
 
-{{< fo t = "banner"
+{{< hw t = "banner"
     header = "Collaborations - past, present and future"
     src = "/img/dino/mrx-logo-0300.png"
     class = "ui center aligned olive message"

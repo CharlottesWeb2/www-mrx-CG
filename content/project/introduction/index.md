@@ -8,7 +8,7 @@ date:       2023-08-08
 tags:        ["project", "tech"]
 oldtags:     ["status"]
 ---
-{{< fo t = "banner"
+{{< hw t = "banner"
     header = "An Introduction to MetaRex"
     src = "/img/dino/mrx-logo-0300.png" 
     class = "ui center aligned olive message"

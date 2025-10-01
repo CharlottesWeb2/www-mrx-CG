@@ -18,7 +18,7 @@ params:
 ---
 <!-- markdownlint-disable MD033-->
 
-{{< fo t = "banner"
+{{< hw t = "banner"
     header = "MetaRex"
     text = "is like a zip file with a timeline. It's used like an electronic FedEx service."
     src = "/img/dino/mrx-logo-0300.png"
@@ -67,7 +67,7 @@ Because today, every Virtual Set and engineering heavy production is a custom bu
 
 Throughout 2022, at [NAB], [IBC] and the [DPP] Leader's Briefing, the MetaRex team did a lot of talking to  content creators, facility owners, software vendors and many others about what were the blockers that stopped metadata being a first class citizen. The biggest issue was "_the metadata gets lost_".
 
-{{< fo t = "block"
+{{< hw t = "block"
     alt =      "mxf-live demo at ARRI"
     position = "left"
     size =     "small"
@@ -79,13 +79,12 @@ MetaRex was shown to work back in 1998, when the original MXF team demonstrated 
 
 [01]: https://www.govinfo.gov/content/pkg/GOVPUB-C13-de2599f27af453fcf0f525f99cebe66c/pdf/GOVPUB-C13-de2599f27af453fcf0f525f99cebe66c.pdf
 [02]: https://www.tvtechnology.com/news/mxf-gets-ready-for-nab-are-you-ready-for-it-242793
-[03]: {{% relref "/blog/ARRI-Open-Day/index.md" %}}
+[03]: /blog/ARRI-Open-Day/index.md
 
-{{</fo>}}
+{{< /hw>}}
 
 {{< metarex >}} has successfully completed its first phase and has created a pool of software available on {{% github %}}.
 
 [DPP]:         /blog/2022/11/16/2022-11-16-dpp-leaders-briefing/
 [IBC]:         /blog/2022/09/18/ibc-show-2022/
 [NAB]:         /blog/2022/04/23/metarex-at-nab-2022-in-las-vegas/
-[status]:      /project/status/

@@ -12,26 +12,26 @@ description: Learn about metarex?
    |  _| / -_) / _` | |  _| | || | | '_| / -_) (_-<
    |_|   \___| \__,_|  \__|  \_,_| |_|   \___| /__/
 -->
-{{< fo t = "banner"
+{{< hw t = "banner"
     header = "Docs"
     description = "MetaRex is like a zip file with a timeline. It's used like an electronic FedEx service."
     src =   "/img/dino/mrx-logo-0300.png"
     class = "ui center aligned olive message"
 />}}
 
-{{< fo t = "feature-group" >}}
+{{< hw t = "feature-group" >}}
 <!-- ---------------------------------------------------------------------- -->
-  {{< fo t = "feature"
+  {{< hw t = "feature"
     header     = "Rexy clips"
     blockClass = "ui green segment"
     class      = "ui green message"
     src        = "/meeja/mrx2-fire.mp4"
     srcClass   = "ui fluid image"
-    link       = "/project/about.md"
+    link       = "/about.md"
     alt        = "rexy fire clip"
   />}}
 <!-- ---------------------------------------------------------------------- -->
-  {{< fo t = "feature"
+  {{< hw t = "feature"
     header     = "Repositories"
     blockClass = "ui yellow segment"
     class      = "ui yellow message"
@@ -41,7 +41,7 @@ description: Learn about metarex?
     alt        = "repositories"
   />}}
 <!-- ---------------------------------------------------------------------- -->
-  {{< fo t = "feature"
+  {{< hw t = "feature"
     header     = "How does it work?"
     blockClass = "ui red segment"
     class      = "ui red message"
@@ -52,8 +52,8 @@ description: Learn about metarex?
 
   <i class = "book icon"></i> Read the docs.
   <!-- ---------------------------------------------------------------------- -->
-{{< /fo >}}
-{{< /fo >}}
+{{< /hw >}}
+{{< /hw >}}
 
 
 ### MetaRex Documentation

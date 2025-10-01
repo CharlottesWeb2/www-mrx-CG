@@ -15,7 +15,7 @@ menu:
 <style>
   span.ui.green.text { color: #73a33d;}
 </style>
-{{< fo t = "banner"	
+{{< hw t = "banner"
     src = "/img/dino/mrx-splash-color.svg"
     alt = "logo of metarex"
 />}}
@@ -24,27 +24,26 @@ menu:
 
 <!--  ---------------------------------------------------------------------  -->
 
-{{< fo t = "image" 
-    src = "/img/dino/mrx-train-short-0100.png" 
-    srcWidth = 0.01 
+{{< hw t = "image"
+    src = "/img/dino/mrx-train-short-0100.png"
+    srcWidth = 0.01
     alt = "rexy train logo"
  />}}
 
 {{< metarex >}} is an initiative dedicated to developing an open-source framework for the transport of media metadata. This framework will allow you to preserve, transport, identify, and use metadata from many sources in a single workflow. This will make it easier to preserve production and post-production metadata than it is to lose it or leave it behind.
 
-
 ### A (very) brief history of MetaRex
 
-The {{< metarex >}} project started back in 2022. We had a small board of members which initially create the Gold Teir Backers and led the structure and health of the company. 
-At the end of 2024, the board was dissolved. 
+The {{< metarex >}} project started back in 2022. We had a small board of members which initially create the Gold Teir Backers and led the structure and health of the company.
+At the end of 2024, the board was dissolved.
 
-The project was completely funded by Backers.  We had three tiers, **Gold, Sliver and Regular** and each tier contributed towards to MetaRex project. 
+The project was completely funded by Backers.  We had three tiers, **Gold, Sliver and Regular** and each tier contributed towards to MetaRex project.
 
-Below is the list of Backers.  Without their support we would not of been able to get to were we are today - thank you! 
+Below is the list of Backers.  Without their support we would not of been able to get to were we are today - thank you!
 
-You can view our [GitHub] account to see what we achieved. 
+You can view our [GitHub] account to see what we achieved.
 
-{{< fo t = "include"
+{{< hw t = "include"
     from = "/project/Admin/backer-list.md"
 />}}
 

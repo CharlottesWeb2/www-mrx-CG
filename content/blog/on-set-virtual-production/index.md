@@ -12,7 +12,7 @@ params:
 ---
 
 
-{{< fo t = "block"
+{{< hw t = "block"
   id    = "summary"
 >}}
 <!-- markdownlint-disable MD025 -->
@@ -28,12 +28,12 @@ Play the [video] from the [SMPTE RIS OSVP][1] experts and hear their views on th
 [1]: https://www.smpte.org/rapid-industry-solutions/on-set-virtual-production
 [video]:  https://www.youtube.com/embed/r9Da_f612YY?si=cWD_sERLjZHI9Wxo&amp;start=381
 
-{{< /fo >}}
+{{< /hw >}}
 
 </div>
 </div>
 
-{{< fo t = "block"
+{{< hw t = "block"
   id    = "why"
   src   = "featured-daniel-lee-0_z7mj4jKn8-unsplash.png"
   alt = "photo of cameraman"
@@ -58,9 +58,9 @@ used, what is its **specification**, can it be automatically **QC**'d with a
 **schema** and are there any **services** available to be sure it's right
 before it's too late?
 
-{{< /fo >}}
+{{< /hw >}}
 
-{{< fo t = "block"
+{{< hw t = "block"
    id    = "smpte"
 >}}
 
@@ -71,7 +71,7 @@ world. {{< metarex >}} aims to provide the plumbing to allow multiple variants
 of the same metadata values to be managed on a single network without insanity
 taking over.
 
-{{< /fo >}}
+{{< /hw >}}
 
 <div class="ui container segment">
   <a href="https://www.smpte.org/rapid-industry-solutions/on-set-virtual-production" _target="blank">
@@ -79,7 +79,7 @@ taking over.
   </a>
 </div>
 
-{{< fo t = "block"
+{{< hw t = "block"
   id    = "examples"
 >}}
 
@@ -90,9 +90,9 @@ NAB this year. You will be able to play with the examples online - even if you'r
 
 [f]: https://github.com/metarex-media
 
-{{< /fo >}}
+{{< /hw >}}
 
-{{< fo t = "block"
+{{< hw t = "block"
   id    = "live"
 >}}
 
@@ -125,4 +125,4 @@ Don't forget to come and see us at NAB 2024 on the [Signiant][s] booth
 [n]: https://nab24.mapyourshow.com/8_0/floorplan/?hallID=W&selectedBooth=W1931
 
 {{< sitelinks >}}
-{{< /fo >}}
+{{< /hw >}}

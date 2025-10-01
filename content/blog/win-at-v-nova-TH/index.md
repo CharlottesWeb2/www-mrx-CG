@@ -21,7 +21,7 @@ Many thanks to all who took part in the [MetaRex Treasure Hunt] at IBC 2024, and
 
 A special thanks to V-Nova for hosting and allowing us to announce the winnner on their booth.  
 
-{{< fo t = "image"
+{{< hw t = "image"
    src = "/blog/win-at-v-nova-TH/annoucing-rexy-winner.png" 
    alt = "annoucing the winner" 
    srcClass = "ui centered large image"
