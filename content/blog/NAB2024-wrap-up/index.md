@@ -36,7 +36,7 @@ See you all at MPTS in London 15th - 16th May 2024!
 
 [0]: /blog/2024/03/06/2024-03-06-rnf-wins-best-accelerator/
 
-{{< /hw>}}
+{{< /hw >}}
 
 <div class="ui grid">
 <div class="ui center middle aligned stackable eight wide column">

@@ -117,4 +117,11 @@ date:      2024-08-13
         alt = "flow diagram"
 />}}
 
-{{</hw>}}
+{{< hw t = "item-include"
+    from = "/about.md"
+    text = "Our backers helped us get to the stage where we can give away our software to help metadata flow. Meet them here."
+    src = "/img/dino/mrx-logo.svg"
+    alt = "rexy logo"
+/>}}
+
+{{< /hw>}}

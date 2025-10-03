@@ -4,15 +4,13 @@ linkTitle:   IBC-2023 Summary
 ---
 
 <!-- --- card -------------------------------------------------------------  -->
-{{< f/card-video
+
+{{<hw t = "video"
       src         =  "https://metarex.media/rnf/sources/rnf-sizzle.mp4"
-      poster      =  "/img/event/ibc2023-poster-rnf-sizzle.png"
+      srcPoster   =  "/img/event/ibc2023-poster-rnf-sizzle.png"
       header      =  "Best IBC Accelerator Project 2023"
-      id          =  "splash"
-      class       = "ui fluid olive card"
-      autoplay  = true
-      controls  = true
- >}}
+      alt         = "Responsive narrative factory sizzle reel"
+ />}}
 
 {{< metarex >}} was at IBC in Hall 3 on the Responsive Narrative Factory Pod.
 
@@ -42,5 +40,3 @@ linkTitle:   IBC-2023 Summary
   <p><strong>Personalized Streaming Video</strong> - you're in charge of the viewing</p>
   <p><strong>Metadata driven Video</strong> - you're in control of the creation</p>
 </div>
-
-{{< /f/card-video >}}

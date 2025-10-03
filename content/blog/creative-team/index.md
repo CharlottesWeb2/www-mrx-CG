@@ -42,7 +42,7 @@ ways of working can be integrated into the pipeline, making more room for the
 collaboration of our disciplines.
 
 {{< sitelinks >}}
-{{< /hw>}}
+{{< /hw >}}
 <!-- ####################################################################### -->
 {{< hw t = "block"
   id       = "block2"
@@ -61,7 +61,7 @@ our workflow, we’ve also been using VR to model the initial shapes of 3D asset
 Rex is still a very young dinosaur, so expect to see some character development!
 
 {{< sitelinks >}}
-{{< /hw>}}
+{{< /hw >}}
 <!-- ####################################################################### -->
 {{< hw t = "block"
   id       = "block3"
@@ -75,7 +75,7 @@ For the scenery, Amber usually makes a plan of the whole scene and then gets stu
 Our concept for the visual style of the scenery is largely influenced by using 2D elements in a 3D space. We wanted to prioritise hand-drawn, painterly elements instead of making a photorealistic landscape, so we took inspiration from theatre. Thinking of our environmental assets as stage flats meant we could create a complex and interesting scene that feels playful, familiar, and gives a nod to the performing arts. We have married this simple approach with dynamic elements such as caustics and volumetric fog for more visual interest.
 
 {{< sitelinks >}}
-{{< /hw>}}
+{{< /hw >}}
 <!-- ####################################################################### -->
 {{< hw t = "block"
   id       = "block4"
@@ -99,4 +99,4 @@ at [@simizeko] on <i class="instagram icon"></i> Instagram.
 [@simizeko]:            https://www.instagram.com/simizeko/?hl=en
 [LinkedIn]:              https://uk.linkedin.com/in/amber-bardell
 
-{{< /hw>}}
+{{< /hw >}}

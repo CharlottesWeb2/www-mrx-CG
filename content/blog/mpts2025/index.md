@@ -8,9 +8,9 @@ author:       MetaRex [@in](https://www.linkedin.com/company/metarex-media)
 tags:         ["event"]
 ---
 
-{{< hw   t = "image"
-        id = "Rexy at MPTS"
-       src = "mpts-panelist.png"
+{{< hw t = "image"
+  id    = "Rexy at MPTS"
+  src   = "/mpts2025/rexy-mpts.png"
   srcClass = "ui fluid image"
        alt = "MPTS session panelists"
 />}}
@@ -24,20 +24,18 @@ enthusiast panelists.
 Many thanks to our panelists, [Dagmar Driesnack][DD], [Dee Davison][Dee], [Rich Welsh][RW], [David Thompson][DT] and
 [James Uren][JU] for being involved in the session and for being such great speakers!
 
-{{< hw   t = "media"
-        id = "Rexy at MPTS"
-       src = "mpts-2025-session.png"
-  srcClass = "ui fluid image"
-     srcOn = "left"
-       alt = "list of panelist"
+{{< hw t = "image"
+  id    = "Rexy at MPTS"
+  src   = "/mpts2025/mpts-2025-session.png"
+  srcOn = "left"
+  alt = "list of panelist" 
 />}}
 
-{{< hw  t = "media"
-        id = "Rexy at MPTS"
-       src = "mpts-panelist.png"
-  srcClass = "ui fluid image"
-     srcOn = "right"
-       alt = "MPTS session panelists"
+{{< hw t = "image"
+  id    = "Rexy at MPTS"
+  src   = "/mpts2025/mpts-panelist.png"
+  srcOn = "right"
+  alt = "MPTS session panelists"
 />}}
 
 ['Have I Got Standards For You']:   https://www.mediaproductionshow.com/programme

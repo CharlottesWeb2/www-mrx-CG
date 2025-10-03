@@ -46,6 +46,6 @@ booth
 </div>
 
 [rxydraw]: https://ibc2024.mapyourshow.com/8_0/floorplan/?st=keyword&hallID=J&sv=V-NOVA&selectedBooth=14.AI03
-{{< /hw>}}
+{{< /hw >}}
 
 {{< markdownifyFile "content/project/treasure-hunt/ibc-list.md" >}}

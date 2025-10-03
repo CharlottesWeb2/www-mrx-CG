@@ -38,4 +38,4 @@ params:
   * The end user now has access to, potentially, several variants of the metadata
     before they write their first line of code.
 
-{{< /hw>}}
+{{< /hw >}}

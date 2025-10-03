@@ -24,7 +24,7 @@ streamlining operations and setup.
 [Fifa]: https://www.fifa.com/
 [HBS]:  https://www.hbs.tv/about-us/
 
-{{< /hw>}}
+{{< /hw >}}
 
 <!-- ####################################################################### -->
 
@@ -43,7 +43,7 @@ in HDR, and a common HDR opto-electronic transfer function is used for all
 cameras. If you ask me about metadata in this setup, I would not be able to give
 you a positive answer, I am afraid that many useful metadata elements were not
 considered at all because of the difficulty of integrating the annotation /
-metadata systems with the live production systmes.
+metadata systems with the live production systems.
 {{< /hw>}}
 
 {{< hw t = "block"
@@ -56,10 +56,10 @@ in and around the stadium. (By Sports Video Group material)
 
 At the core of live content distribution are the multi-feeds allowing FIFA to
 provide a wide range of match, pre- and post-match, and other content to
-rightsholders. Multilateral feeds and selected isolated cameras will also be
+rights holders. Multilateral feeds and selected isolated cameras will also be
 available in different formats, including 12G-SDI UHD/HDR BT.2020 at 2160p/50
 for selected isolated cameras and the Extended Stadium Feed. All multi-feeds
-will be available to rightsholders in 3G SDI-HDR (BT.2020), 3G-SDI SDI
+will be available to rights holders in 3G SDI-HDR (BT.2020), 3G-SDI SDI
 (REC.709), and HD-SDI SDI (REC.709). Each one will have up to 16 embedded audio
 channels.
 
@@ -74,7 +74,7 @@ The lineup of feeds:
 * Action clips
 * Emotion clips
 * Permanent highlights
-{{< /hw>}}
+{{< /hw >}}
 
 <!-- ####################################################################### -->
 
@@ -84,9 +84,9 @@ The lineup of feeds:
 
 One of the features of this year broadcasting setup has been the cloud-based
 media server, FIFA MAX (Media Asset Exchange), which allows rights holders to
-seard for _and find_ find a treasure trove of content. The 2022 version will be
+search for _and find_ find a treasure trove of content. The 2022 version will be
 capable of holding 6,000 hours of content, all of which can be accessed via the
-FIFA Content Interface. Best of all, rightsholders can access it whether or not
+FIFA Content Interface. Best of all, rights holders can access it whether or not
 they are based at the IBC, giving production professionals thousands of miles
 away a chance to boost content creation and output. Content will be stored via
 XAVC-I at 1080p/50, and the server also supports ingest and delivery in HDR
@@ -95,7 +95,7 @@ time based metadata associated with the media found its way to the cloud based
 storage.  A {{< metarex >}} fire-hose of metadata might have enriched the quality,
 quantity and **searchability** of assets.
 
-{{< /hw>}}
+{{< /hw >}}
 
 <!-- ####################################################################### -->
 
@@ -111,7 +111,7 @@ basic-stereo mix, 5.1 surround-sound mix **_and also_** a **5.1.4** immersive
 mix produced in two immersive-sound galleries at the IBC. At the center of those
 efforts, an eight-capsule microphone array at each stadium is supported by
 additional three-dimensional microphone arrays located closer to the spectators.
-{{< /hw>}}
+{{< /hw >}}
 
 {{< hw t = "image"
     src = "mobile-viewer.jpg"

@@ -20,8 +20,6 @@ params:
 
 Here are some of the key objectives for the {{%  metarex %}} Project:
 
-
-
 {{< hw t = "block"
   id    = "summary"
 >}}
@@ -45,7 +43,7 @@ Here are some of the key objectives for the {{%  metarex %}} Project:
 
 🦖   MetaRex can run in a product, on-premise or globally.
 
-{{< /hw>}}
+{{< /hw >}}
 
 
 If this sounds exciting or useful to you and you want to know more, please get in touch with us! 

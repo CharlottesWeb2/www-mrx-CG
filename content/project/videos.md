@@ -30,4 +30,4 @@ type:        docs
 </div>
 
 {{% sitelinks %}}
-{{< /hw>}}
+{{< /hw >}}

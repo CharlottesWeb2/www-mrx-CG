@@ -71,7 +71,7 @@ that has been optimised for the user's workflow needs.
 [tam]: https://downloads.bbc.co.uk/rd/pubs/whp/whp-pdf-files/WHP421.pdf
 [vc6]: https://www.v-nova.com/vc-6-higher-quality-at-lower-bitrates/vc6-encoding-and-decoding-sdk/
 
-{{< /hw>}}
+{{< /hw >}}
 
 ## The processing in more detail
 
@@ -227,7 +227,7 @@ different operating modes
    4](#fig-4))
 3. Authenticated network service for use in a mixed security environment
 
-<a id="fig-4"></a>{{ fo
+<a id="fig-4"></a>{{< hw
    id = "fig-4"
    t = "image"
    src = "mrx-worker2.svg"

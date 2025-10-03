@@ -9,10 +9,8 @@ weight:      20
 The Responsive Narrative Factory won **Best IBC Accelerator Project 2023** 🎉
 {{% /pageinfo %}}
 
------
-
 {{< hw t = "banner"
-
+    header = "MetaRex need you"
     description = "The Responsive Narrative Factory won _**Best IBC Accelerator Project 2023**_."
     src = "/img/dino/mrx-logo-0300.png"
     class = "ui center aligned olive message"
