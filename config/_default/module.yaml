@@ -11,7 +11,7 @@ imports:
   - path: github.com/mrmxf/pihuw
     disable: false
 # uncomment line below for temporary local development of module
-replacements: "github.com/mrmxf/pihuw->../../0_mrmxf/pihuw"
+# replacements: "github.com/mrmxf/pihuw->../../0_mrmxf/pihuw"
 
 mounts:
   - disableWatch: false
