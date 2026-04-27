@@ -36,8 +36,6 @@ Have a look at the full list of [artwork] Amber and Simi have created for MetaRe
 
 Rexy even has her own {{% insta %}} page!  Be sure to follow for all the latest amazing artwork by [Amber][AB] and [Simi][SZ].
 
-If you like the artwork that our **MetaRex Creative Team** create and want to support them, consider donating on their [Feed Rexy][donate] 🍰 🦖  
-
 [backstory]:  {{% relref "/rexy-area/backstory/index.md" %}}
 [artwork]: {{% relref "rexy-area/artwork/index.md" %}}
 [here!]:  {{% relref "rexy-area/soft-toy/index.md" %}}
@@ -45,4 +43,3 @@ If you like the artwork that our **MetaRex Creative Team** create and want to su
 [SZ]:      https://simizeko.com
 [blog]:    {{% relref "blog/creative-team/index.md" %}}
 [contact]: {{% relref "/contact" %}}
-[donate]:  {{% relref "/donate/index.md" %}}

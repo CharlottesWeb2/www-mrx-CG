@@ -64,7 +64,7 @@ menus:
       weight: 110
 
     # - name:       See the IBC Winner
-    #   URL:        /donate/
+    #   URL:       
     #   identifier: cake
     #   pre:
     #   post:       " 🦖"
@@ -95,17 +95,11 @@ menus:
       weight: 110
 
     # - name:       See the IBC Winner
-    #   URL:        /donate/
+    #   URL:        
     #   identifier: cake
     #   pre:
     #   post:       " 🦖"
     #   weight:     110
-    - name: Feed Rexy
-      URL: /donate/
-      identifier: cake
-      pre:
-      post: " 🍰"
-      weight: 110
     - name: Try a demo
       URL: /app/demos/
       identifier: feed
